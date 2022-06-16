@@ -8,7 +8,7 @@ body {
     background-color: #1f2937;
     color: white;
     display: flex;
-    height: 500px;
+    height: 400px;
     justify-content: center;
     gap: 50px;
 
@@ -113,7 +113,6 @@ body {
     height: 150px;
     border-radius: 10px;
     border:solid #3882F6;
-    border-width: 2x;
 }
 
 .text1 {
