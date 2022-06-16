@@ -32,7 +32,7 @@ body {
 .btn {
     width: fit-content;
     border-radius: 5px;
-    background-color: blue;
+    background-color: #3882F6;
     color: white;
     border-style: none;
     padding: 5px 25px;
@@ -93,14 +93,16 @@ body {
 
 .words {
     font-weight: bold;
-    color: navy;
+    color: #1F2937;
     margin-top: 20px;
-    font-size: 30px;
+    font-size: 38px;
+    font-weight: 800;
 }
 
 .boxes {
    display: flex;
    gap: 40px;
+   color: (113, 121, 132);
 }
 
 .box1,
@@ -109,14 +111,15 @@ body {
 .box4 {
     width: 150px;
     height: 150px;
-    border-radius: 5px;
-    border: solid blue;
+    border-radius: 10px;
+    border:solid #3882F6;
     border-width: 2x;
 }
 
 .text1 {
     width: 150px;
     text-align: center;
+    margin-top: 5px;
 }
 
 
